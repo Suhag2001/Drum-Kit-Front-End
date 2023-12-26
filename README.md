@@ -17,7 +17,7 @@ This project is a simple drum kit built with HTML, CSS, and JavaScript. Users ca
 
 ## Live Demo
 
-For a live demo, visit [Drum Kit Project](https://suhag2001.github.io/drum-kit/)]
+For a live demo, visit [Drum Kit Project](https://suhag2001.github.io/drum-kit/)
 
 ## Additional Notes
 
